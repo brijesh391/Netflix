@@ -8,7 +8,7 @@ _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 <img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
 </div>
 
-## What it is
+## Created Using
 
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
